@@ -1,6 +1,5 @@
 from samples.response import response
 
-
 def filter_response_keys():
     raise NotImplementedError
 
